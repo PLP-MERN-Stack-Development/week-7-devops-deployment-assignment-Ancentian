@@ -68,6 +68,16 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 5. Include screenshots of your CI/CD pipeline in action
 6. Add URLs to your deployed applications
 
+## 🚀 Deployment
+
+- Frontend hosted on Vercel: https://my-app.netlify.app
+- Backend hosted on Render: https://my-api.onrender.com
+
+## 🌐 Production Setup
+- MongoDB Atlas
+- Render auto-deploy via GitHub
+
+
 ## Resources
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
