@@ -70,8 +70,8 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 
 ## 🚀 Deployment
 
-- Frontend hosted on Vercel: https://my-app.netlify.app
-- Backend hosted on Render: https://my-api.onrender.com
+- Frontend hosted on Vercel: https://week-7-devops-deployment-assignment-rosy.vercel.app/
+- Backend hosted on Render: https://week-7-devops-deployment-assignment-1x7c.onrender.com
 
 ## 🌐 Production Setup
 - MongoDB Atlas
